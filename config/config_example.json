@@ -1,0 +1,12 @@
+{
+  "width_height": [120,150],
+  "input_name": "MonaLisa_sample.jpeg",
+  "name":"MonaLisa_sample",
+  "threshold" : 100,
+  "polygon_per_cycle" : 3,
+  "num_pop" : 10,
+  "num_gen" : 10,
+  "num_step" : 30,
+  "mutation_rate": 0.05,
+  "cross_rate": 0.7
+}
