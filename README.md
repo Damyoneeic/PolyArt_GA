@@ -1,4 +1,4 @@
-# Polygon Gene Algorithm
+# Polygon Art Genetic Algorithm (PolyArt_GA)
 
 ## Features
 
@@ -31,7 +31,7 @@ Make sure you have [Poetry](https://python-poetry.org/) installed.
 
 ```bash
 # Clone the repository
-git clone https://github.com/Damyoneeic/polygon_gene_algo_private.git
+git clone https://github.com/Damyoneeic/PolyArt_GA.git
 cd polygon_gene_algo_private
 
 # Install dependencies and enter the virtual environment
@@ -47,7 +47,7 @@ Copy the sample config and adjust parameters as needed:
 cp config/config_example.json config/config.json
 ```
 
-`widt_height`: The size you want for your proccessed image. 
+`widt_height`: The size you want for your proccessed image.
 
 `input_name`: The name for the output dir to store your outputs. The following dir will be created `/output/input_name`.
 
